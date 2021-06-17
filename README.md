@@ -8,3 +8,5 @@
 
 ### IDE Used: Google Colaboratory
 ### Programming Language : Python
+### Algorithm : Linear Regression
+

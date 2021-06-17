@@ -6,6 +6,5 @@
 
 ● Data can be found at http://bit.ly/w-data
 
-### Tool Used: Colab
-
-
+### IDE Used: Google Colaboratory
+### Programming Language : Python
